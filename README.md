@@ -21,7 +21,7 @@ source .venv/bin/activate
 
 # If needed, install
 pip install openai
-ip install azure.identity
+pip install azure.identity
 pip install load_dotenv
 ```
 
